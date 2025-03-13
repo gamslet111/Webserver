@@ -12,8 +12,8 @@
 ## Now you can open the Serial Monitor, and confihure the System
 ![img_3.png](Pictures%2Fimg_3.png)
 
-To configure the Wifi, you have to wirite: "ssid:"YourSSID" and "password:"YourPassword" and then press Enter
-After that, you have to write RESET
+To configure the Wifi, you have to wirite: "ssid:"YourSSID" and "password:"YourPassword" and then press Enter  
+After that, you have to write RESET  
 > [!CAUTION]
 > You need to write the SSID and Password in the same line, and the SSID and Password must be in the same line, without any spaces between the ":" and the SSID/Password
 
